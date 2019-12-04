@@ -1,0 +1,16 @@
+body {
+    background: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    position: static;
+}
+#userInput{
+    width: 200px;
+}
+
+.giferHolder {
+    width: auto;
+    margin-right: 5px;
+}
